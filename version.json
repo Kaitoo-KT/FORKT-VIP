@@ -1,9 +1,12 @@
 {
   "version": "1.0.5",
   "notes": [
-    "Improve refresh rate",
-    "Fix VIP gate",
-    "Stability update"
+    "Improve Frame Optimizer",
+    "Fix VIP Gate",
+    "Improve Super Ai Sensitivity",
+    "Improve Tweaks ( Network,Logging,SurfaceFilnger",
+    "Stability update",
+    "And More."
   ],
   "url": "https://github.com/Kaitoo-KT/FORKT-VIP/releases/latest"
 }
