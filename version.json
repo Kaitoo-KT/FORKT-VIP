@@ -1,11 +1,16 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": [
-    "Improve Frame Optimizer",
-    "Fix VIP Gate",
-    "Improve Super Ai Sensitivity",
-    "Improve Tweaks ( Network,Logging,SurfaceFilnger )",
-    "Stability update",
+    "Smart app detection (Android 7–14 compatible).",
+    "Restore Super AI after reboot.",
+    "Loop interval optimized",
+    "Window scaling is more stable at all resolutions.",
+    "Fixed repeated window reset.",
+    "Battery & Thermal Improvements",
+    "Scale engine is more consistent between devices.",
+    "VIP System Enhancements",
+    "System & Cache Optimization",
+    "UI & Panel Improvements",
     "And More."
   ],
   "url": "https://github.com/Kaitoo-KT/FORKT-VIP/releases/latest"
