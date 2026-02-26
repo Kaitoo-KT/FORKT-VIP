@@ -1,17 +1,14 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": [
-    "Smart app detection (Android 7–14 compatible).",
-    "Restore Super AI after reboot.",
-    "Loop interval optimized",
-    "Window scaling is more stable at all resolutions.",
-    "Fixed repeated window reset.",
-    "Battery & Thermal Improvements",
-    "Scale engine is more consistent between devices.",
-    "VIP System Enhancements",
-    "System & Cache Optimization",
-    "UI & Panel Improvements",
-    "And More."
+    "VIP lock system.",
+    "Improvement VIP System.",
+    "Auto detect active app.",
+    "Engine UI redesign.",
+    "Added Preload Mode (game/system/custom).",
+    "Added Custom DNS (Gaming/NoAds/Default).",
+    "Added Get Free Key For Free User (Shortlink)",
+    "Bug fixes and performance boost."
   ],
   "url": "https://github.com/Kaitoo-KT/FORKT-VIP/releases/latest"
 }
