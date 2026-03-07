@@ -1,5 +1,10 @@
 {
-  "shortlink": "https://whatsapp.com/channel/0029VazhfIiJf05jBKkGKe1F",
+  "shortlink": "https://sfl.gl/2WaXuF3",
   "delay": 9000,
-  "keys": {}
+  "keys": {
+    "FORKT-QAEG6A": {
+      "created": 1772860143189,
+      "expire": 1772860443189
+    }
+  }
 }
