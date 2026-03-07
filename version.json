@@ -1,14 +1,13 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": [
-    "VIP lock system.",
-    "Improvement VIP System.",
-    "Auto detect active app.",
-    "Engine UI redesign.",
-    "Added Preload Mode (game/system/custom).",
-    "Added Custom DNS (Gaming/NoAds/Default).",
-    "Added Get Free Key For Free User (Shortlink)",
-    "Bug fixes and performance boost."
+    "Scale tuning ( Super Ai )",
+    "GPU renderer optimization",
+    "Frame pacing stabilizer",
+    "HWUI frame load balancing",
+    "Fix State Engine Super Ai",
+    "Improvement Free Key ( For Free User )",
+    "Improvement Security VIP"
   ],
   "url": "https://github.com/Kaitoo-KT/FORKT-VIP/releases/latest"
 }
