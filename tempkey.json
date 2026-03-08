@@ -1,5 +1,10 @@
 {
   "shortlink": "https://sfl.gl/BKa4VqZ",
   "delay": 9000,
-  "keys": {}
+  "keys": {
+    "FORKT-1HA68D": {
+      "created": 1772995782136,
+      "expire": 1773038982136
+    }
+  }
 }
